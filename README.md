@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/palash-hawee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="palash-hawee" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/palash hawee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="palash hawee" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/palashhwpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="palashhwpaul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/palashhawee21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="palashhawee21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/palashhawee21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="PalashHawee21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
