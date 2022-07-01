@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/palashhawee" target="blank"><img src="https://img.shields.io/twitter/follow/palashhawee?logo=twitter&style=for-the-badge" alt="palashhawee" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **haweepalash@gmail.com**
 
