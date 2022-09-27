@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Indigenous-Clothing](https://indigenous-clothing.netlify.app/)
 
-- 🌱 I’m currently learning **React, Firesbase, Graphql, Typescript & Redux**
+- 🌱 I’m currently learning **React, Firebase, Graphql, Typescript & Redux**
 
 - 💬 Ask me about **Python, C, C++, Data Science, Machine learning**
 
