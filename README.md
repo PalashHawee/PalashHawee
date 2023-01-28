@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Palash Hawee</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on [Indigenous-Clothing](https://indigenous-clothing.netlify.app/)
+- 🔭 I’m currently working on [Mern Project](https://github.com/PalashHawee/mernPro)
 
-- 🌱 I’m currently learning **React, Firebase, Graphql, Typescript & Redux**
+- 🌱 I’m currently learning **React, Firebase, Graphql, Mern Stack, Typescript & Redux**
 
 - 💬 Ask me about **Python, C, C++, Data Science, Machine learning**
 
