@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Firebase, Graphql, Mern Stack, Typescript & Redux**
 
-- 💬 Ask me about **Python, C, C++, Data Science, Machine learning**
+- 💬 Ask me about **Python, JavaScript, C++, Data Science, Machine learning**
 
 - 📫 How to reach me **haweepalash@gmail.com**
 
