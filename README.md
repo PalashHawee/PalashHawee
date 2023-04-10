@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Palash Hawee</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on [Mern Project](https://github.com/PalashHawee/mernPro)
+- 🔭 I’m currently working on [Node JS Project](https://github.com/PalashHawee/nature-tours)
 
-- 🌱 I’m currently learning **React, Firebase, Graphql, Mern Stack, Typescript & Redux**
+- 🌱 I’m currently learning **Node Js, Express & MongoDB**
 
 - 💬 Ask me about **Python, JavaScript, C++, Data Science, Machine learning**
 
