@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Palash Hawee</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on [Node JS Project](https://github.com/PalashHawee/nature-tours)
-
-- 🌱 I’m currently learning **Node Js, Express & MongoDB**
-
 - 💬 Ask me about **Python, JavaScript, C++, Data Science, Machine learning**
 
 - 📫 How to reach me **haweepalash@gmail.com**
