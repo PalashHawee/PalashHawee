@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Palash Hawee</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 💬 Ask me about **Python, JavaScript, C++, Data Science, Machine learning**
+- 💬 Ask me about **Python, JavaScript, Node JS,Express JS,React JS, Data Science, Machine learning**
 
 - 📫 How to reach me **haweepalash@gmail.com**
 
